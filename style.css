@@ -33,3 +33,6 @@ p {
     font-size: 20px;
     border-top: 6px solid grey
 }
+.clear{
+    clear:both;
+}
