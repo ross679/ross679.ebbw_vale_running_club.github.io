@@ -12,6 +12,7 @@ html {
     border-bottom: 6px solid grey;
 }
 p {
+    font-size: 25px;
     line-height: 2.0em;
 }
 .video {
