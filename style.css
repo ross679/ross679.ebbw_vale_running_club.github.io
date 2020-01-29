@@ -1,6 +1,7 @@
 html {
     scroll-behavior: smooth;
 }
+
 .main-header {
     color: hotpink;
     background-color: black;
@@ -9,6 +10,9 @@ html {
     color: white;
     background-color: hotpink ;
     border-bottom: 6px solid grey;
+}
+p {
+    line-height: 2.0em;
 }
 .photo{
     width: 500px;
