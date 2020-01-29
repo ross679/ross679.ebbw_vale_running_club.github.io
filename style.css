@@ -2,7 +2,8 @@
     color: hotpink;
     background-color: black;
 }
-.motto{
+.motto {
     color: black;
-    background-color: hotpink  ;
+    background-color: hotpink ;
+    border-bottom: 3px solid grey;
 }
