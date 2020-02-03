@@ -23,8 +23,13 @@ p {
     margin: auto;
     border: 3px solid hotpink;
 }
-.fab fa-facebook-square {
+.facebook {
+    font-size: 20px;
     color: #3b5998
+    
+}
+.e-mail {
+    font-size: 20px;
 }
 .footer-copyright {
     color: hotpink;
