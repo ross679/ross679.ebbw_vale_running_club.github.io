@@ -23,19 +23,17 @@ p {
     margin: auto;
     border: 3px solid hotpink;
 }
-.facebook {
-    font-size: 20px;
-    color: #3b5998
-    
-}
-.e-mail {
-    font-size: 20px;
+.social {
+    background-color: hotpink;
+    border-top: 6px solid grey;
+    margin-top: 30px;
+    color: white;
+    padding: 20px;
 }
 .footer-copyright {
     color: hotpink;
     background-color: black;
     font-size: 20px;
-    border-top: 6px solid grey
 }
 .address {
     float: left;
