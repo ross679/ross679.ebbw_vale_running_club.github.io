@@ -30,6 +30,14 @@ p {
     color: white;
     padding: 20px;
 }
+.social a {
+   color: white;
+   font-size: 20px;
+}
+.social a:hover {
+    text-decoration: none;
+    color: white;
+}
 .footer-copyright {
     color: hotpink;
     background-color: black;
