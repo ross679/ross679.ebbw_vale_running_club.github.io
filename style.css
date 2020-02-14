@@ -23,14 +23,26 @@ p {
     margin: auto;
     border: 3px solid hotpink;
 }
-.fab fa-facebook-square {
-    color: #3b5998
+.social {
+    background-color: hotpink;
+    border-top: 6px solid grey;
+    margin-top: 30px;
+    color: white;
+    padding: 20px;
+}
+.social a {
+    width: 200px;;
+   color: white;
+   font-size: 20px;
+}
+.social a:hover {
+    text-decoration: none;
+    color: white;
 }
 .footer-copyright {
     color: hotpink;
     background-color: black;
     font-size: 20px;
-    border-top: 6px solid grey
 }
 .address {
     float: left;
@@ -38,3 +50,5 @@ p {
 .clear {
     clear:both;
 }
+
+  
