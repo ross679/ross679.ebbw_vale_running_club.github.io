@@ -46,6 +46,7 @@ p {
 }
 .map {
     width: 100%;
+    filter: grayscale(100%);
 }
 .address {
     float: left;
