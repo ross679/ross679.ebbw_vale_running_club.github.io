@@ -1,8 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Patua+One&display=swap');
+
 html {
     scroll-behavior: smooth;
 }
 .main-header {
-    color: hotpink;
+    font-family: 'Patua One', cursive;
+    color: white;
+    font-weight: bold;
     background-color: black;
 }
 .motto {
