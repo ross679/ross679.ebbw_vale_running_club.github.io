@@ -51,6 +51,7 @@ p {
 .button-top{
     position: sticky;
     bottom: 90px;
+    padding-right: 40px;
 }
 .map {
     width: 100%;
