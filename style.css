@@ -69,19 +69,14 @@ p {
   #main-title {
     font-size: 60px;
   }
-  #motto {
+  .sport {
     font-size: 40px;
   }
  }
 
  /* Small devices (portrait tablets and large phones, 600px and up) */
  @media only screen and (min-width: 600px) {
-  #main-title {
-    font-size: 60px;
-  }
-  #motto {
-    font-size: 40px;
-  }
+  
  }
  
  /* Medium devices (landscape tablets, 768px and up) */
