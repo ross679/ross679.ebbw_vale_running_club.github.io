@@ -60,9 +60,6 @@ p {
   width: 100%;
   filter: grayscale(100%);
 }
-.address {
-  float: left;
-}
 .clear {
   clear: both;
 }
