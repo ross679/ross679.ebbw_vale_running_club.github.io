@@ -4,7 +4,7 @@ html {
   scroll-behavior: smooth;
 }
 .main-header {
-  font-family: "Patua One", cursive;
+  font-family: "Patua One", Arial, Helvetica, sans-serif, cursive;
   color: white;
   font-weight: bold;
   background-color: black;
