@@ -55,10 +55,6 @@ p {
   bottom: 10px;
   margin-left: 20px;
 }
-.button-top a {
-  color: hotpink;
-  background-color: black;
-}
 .map {
   width: 100%;
   filter: grayscale(100%);
