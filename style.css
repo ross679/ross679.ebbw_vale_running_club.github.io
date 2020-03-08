@@ -4,7 +4,7 @@ html {
   scroll-behavior: smooth;
 }
 .main-header {
-  font-family: "Patua One", cursive;
+  font-family: "Patua One", Arial, Helvetica, sans-serif, cursive;
   color: white;
   font-weight: bold;
   background-color: black;
@@ -33,7 +33,6 @@ p {
 .social {
   background-color: hotpink;
   border-top: 6px solid grey;
-  margin-top: 30px;
   color: white;
   padding: 20px;
 }
@@ -73,8 +72,11 @@ p {
   #main-title {
     font-size: 60px;
   }
-  .sport {
+  .motto {
     font-size: 40px;
+  }
+  .sport {
+    font-size: 20px;
   }
  }
 
