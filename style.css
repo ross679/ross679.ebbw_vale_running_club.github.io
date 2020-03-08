@@ -52,7 +52,7 @@ p {
 }
 .button-top {
   position: sticky;
-  bottom: 10px;
+  bottom: 50px;
   margin-left: 20px;
 }
 .map {
