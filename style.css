@@ -10,6 +10,7 @@ html {
   background-color: black;
 }
 .motto {
+  font-family: "Patua One", Arial, Helvetica, sans-serif, cursive;
   color: white;
   background-color: hotpink;
   border-bottom: 6px solid grey;
