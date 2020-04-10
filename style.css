@@ -16,7 +16,7 @@ html {
   border-bottom: 6px solid grey;
 }
 ul li:hover {
-  border-bottom: 3px solid hotpink ;
+  border-bottom: 3px solid hotpink;
 }
 p {
   font-size: 25px;
