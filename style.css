@@ -59,6 +59,7 @@ p {
 }
 .button-top a {
   color: hotpink;
+  background-color: black;
 }
 .button-top a:hover {
   color: hotpink;
