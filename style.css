@@ -60,6 +60,9 @@ p {
 .button-top a {
   color: hotpink;
 }
+.button-top a:hover {
+  color: hotpink;
+}
 .map {
   width: 100%;
   filter: grayscale(100%);
