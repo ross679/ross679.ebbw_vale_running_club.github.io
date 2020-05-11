@@ -55,11 +55,11 @@ p {
   position: sticky;
   bottom: 50px;
   margin-left: 20px;
+  background-color: black;
   border: none;
 }
 .button-top a {
   color: hotpink;
-  background-color: black;
 }
 .button-top a:hover {
   color: hotpink;
