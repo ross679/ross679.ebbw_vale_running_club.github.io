@@ -55,6 +55,7 @@ p {
   position: sticky;
   bottom: 50px;
   margin-left: 20px;
+  border: none;
 }
 .button-top a {
   color: hotpink;
