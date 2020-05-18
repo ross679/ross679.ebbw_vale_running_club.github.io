@@ -34,7 +34,7 @@ p {
   width: 500px;
   height: 500px;
   margin: auto;
-  border: 3px solid var(--hotpink);
+  border: 3px solid var(--mainColor);
 }
 .social {
   background-color: var(--mainColor);
@@ -64,10 +64,10 @@ p {
   border: none;
 }
 .button-top a {
-  color: var(--hotpink);
+  color: var(--mainColor);
 }
 .button-top a:hover {
-  color: var(--hotpink);
+  color: var(--mainClor);
   text-decoration: none
 }
 .map {
