@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Patua+One&display=swap");
 
+:root {
+  --hotpink: hotpink;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -12,7 +16,7 @@ html {
 .motto {
   font-family: "Patua One", Arial, Helvetica, sans-serif, cursive;
   color: white;
-  background-color: hotpink;
+  background-color: var(--hotpink);
   border-bottom: 6px solid grey;
 }
 ul li:hover {
