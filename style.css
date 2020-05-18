@@ -20,23 +20,23 @@ html {
   border-bottom: 6px solid grey;
 }
 ul li:hover {
-  border-bottom: 3px solid hotpink;
+  border-bottom: 3px solid var(--hotpink);
 }
 p {
   font-size: 25px;
   line-height: 2em;
 }
 .video {
-  border: 3px solid hotpink;
+  border: 3px solid var(--hotpink);
 }
 .photo {
   width: 500px;
   height: 500px;
   margin: auto;
-  border: 3px solid hotpink;
+  border: 3px solid var(--hotpink);
 }
 .social {
-  background-color: hotpink;
+  background-color: var(--hotpink);
   border-top: 6px solid grey;
   color: white;
   padding: 20px;
@@ -63,10 +63,10 @@ p {
   border: none;
 }
 .button-top a {
-  color: hotpink;
+  color: var(--hotpink);
 }
 .button-top a:hover {
-  color: hotpink;
+  color: var(--hotpink);
   text-decoration: none
 }
 .map {
