@@ -16,6 +16,7 @@ html {
 }
 .motto {
   font-family: "Patua One", Arial, Helvetica, sans-serif, cursive;
+  font-style: italic;
   color: white;
   background-color: var(--mainColor);
   border-bottom: 6px solid grey;
