@@ -14,9 +14,11 @@ html {
   font-weight: bold;
   background-color: black;
 }
+.sport {
+  font-style: italic;
+}
 .motto {
   font-family: "Patua One", Arial, Helvetica, sans-serif, cursive;
-  font-style: italic;
   color: white;
   background-color: var(--mainColor);
   border-bottom: 6px solid grey;
