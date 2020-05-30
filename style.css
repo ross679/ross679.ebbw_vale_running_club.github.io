@@ -63,10 +63,8 @@ p {
   bottom: 50px;
   margin-left: 20px;
   background-color: black;
-  border: none;
-}
-.button-top a {
   color: var(--mainColor);
+  border: none;
 }
 .map {
   width: 100%;
