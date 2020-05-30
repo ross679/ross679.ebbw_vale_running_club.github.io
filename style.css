@@ -62,8 +62,6 @@ p {
   position: sticky;
   bottom: 50px;
   margin-left: 20px;
-  background-color: black;
-  color: var(--mainColor);
   border: none;
 }
 .map {
